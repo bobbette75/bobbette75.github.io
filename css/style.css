@@ -1,0 +1,18 @@
+body {
+  font-family: "Mukta", sans-serif;
+  font-family: "Readex Pro", sans-serif;
+  background-color: #d1d5e8;
+  /* opacity: 0.6; */
+}
+
+a:link,
+a:visited {
+  color: #000;
+  font-style: italic;
+  text-decoration: none;
+}
+a:hover {
+  color: rgb(20, 44, 43);
+  font-weight: bold;
+  text-decoration: underline wavy red 2px;
+}
